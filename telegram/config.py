@@ -1,19 +1,19 @@
 # -*- coding: utf-8 -*-
 
 #Telegram Bot API token (ask BotFather):
-botToken = ''
+botToken = '8084441296:AAFk3JX1eQ89NuX-mNdAcBiTeVv6roARYn8'
 
 #Password for authentication in bot:
-botPassword = 'password'
+botPassword = '273s'
 
 #Default data for ssh-connection:
 sshUser = ''
 sshPassword = ''
 sshHost = ''
-sshHomeDirectory = '/'
+sshHomeDirectory = '/workspaces/kazusakiii27'
 
 #Root permission. If 'True" - root allowed
-rootPermission = False
+rootPermission = True
 
 #Logging. If 'True" - logging ON
 logging = True
